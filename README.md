@@ -3,7 +3,7 @@
 Estudante de **Engenharia Eletrotécnica e de Computadores na FEUP** | Projetos pessoais em Python e programação.
 
 ## Sobre o projeto
-Este projeto foi desenvolvido durante o ensino secundário em Python.  
+Este projeto foi desenvolvido durante o ensino secundário e na universidade em Python.  
 Objetivo: **Validar dados de entrada do utilizador** de forma segura, garantindo que os valores inseridos atendem a regras específicas para nome, idade, salário, sexo e estado civil.
 
 ---
